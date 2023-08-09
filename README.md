@@ -4,14 +4,8 @@
 
 <div id="badges" align = "center" >
   <h2 align="center">Hi 👋, I'm Atef Chelaghma</h2>
-  <p>A Front End Developer for more than 2 years of experience. Created
-responsive websites using HTML, CSS, and JavaScript, typescript,
-React.js, Next.js, Collaborated with Back End Developers to ensure
-seamless integration and functionality. Enforced stringent accessibility
-standards while proactively optimizing performance, ensuring
-enhanced user satisfaction. Experienced in Agile methodologies and
-version control systems. Staying updated with the latest technologies
-helps me maintain clean and maintainable code.</p>
+  <p>A Front End Developer with over than 2 years of experience. Created responsive websites using HTML5, CSS3, and JavaScript, typescript, React.js, Next.js, My commitment to enforcing stringent accessibility standards ensures inclusivity for all users, while optimizing performance to enhance overall user satisfaction. Experienced in Agile methodologies and version control systems. Staying updated with the latest technologies helps me maintain clean and maintainable code.
+</p>
 
   <p align="center"><strong>Reach me via linkedIn:</strong></p>
   <a href="https://www.linkedin.com/in/atef-chelaghma/" target="blank">
