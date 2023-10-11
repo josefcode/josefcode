@@ -3,8 +3,7 @@
 </div>
 
 <div id="badges" align = "center" >
-  <h2 align="center">Hi 👋, I'm Atef Chelaghma</h2>
-  <p>A Front End Developer with over than 2 years of experience. Created responsive websites using HTML5, CSS3, and JavaScript, typescript, React.js, Next.js, My commitment to enforcing stringent accessibility standards ensures inclusivity for all users, while optimizing performance to enhance overall user satisfaction. Experienced in Agile methodologies and version control systems. Staying updated with the latest technologies helps me maintain clean and maintainable code.
+  <p>A Front-End Developer with a knack for crafting user-friendly and responsive websites using HTML, CSS, JavaScript, ReactJS, and TypeScript, I'm all about creating top-notch user experiences. I thrive on teamwork, collaborating closely with Back-End Developers to make sure everything fits together seamlessly. I'm also big on accessibility standards and performance optimization because happy users are the goal! You'll find me comfortable with Agile methodologies and version control systems. Plus, I'm always on the lookout for the latest tech trends, eager to contribute to our development practices and keep things cutting-edge.
 </p>
 
   <p align="center"><strong>Reach me via linkedIn:</strong></p>
